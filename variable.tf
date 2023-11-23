@@ -1,6 +1,6 @@
 variable "image" {
   type = string
-  default = "076892551558.dkr.ecr.ca-central-1.amazonaws.com/myapp:dev"
+  default = ""    #uri of the image you pushed to ecr
 }
 
 variable "region" {
