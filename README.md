@@ -64,5 +64,5 @@ Update these variables based on your application requirements.
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
+
 
